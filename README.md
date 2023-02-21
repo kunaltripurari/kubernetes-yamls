@@ -1,2 +1,2 @@
 # kubernetes-yamls
-Kubernetes deployment yawls
+Kubernetes deployment yamls
